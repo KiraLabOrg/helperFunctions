@@ -21,6 +21,8 @@ function transportFig(varargin)
             figpath = 'E:\Dropbox (HMS)\TempFigs\';
         case 'shin-cp'
             figpath = 'E:\Dropbox (HMS)\TempFigs\';
+        case 'psy-pdb-cybrpc'
+            figpath = 'C:\Users\sk25bd\OneDrive - Florida State University\tempFigs\';
     end
     
     fig_num = get(gcf,'Number');
